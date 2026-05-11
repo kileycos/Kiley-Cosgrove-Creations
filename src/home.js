@@ -93,10 +93,10 @@ export default function Home() {
 
                 <div className="home-side-grid cols-2" id="grid-left">
                     <img className="grid-img" src={BWOne} alt="" />
-                    <img className="grid-img" src={BWTwo} alt="" />
-                    <img className="grid-img" src={BWThree} alt="" />
                     <img className="grid-img" src={BWFour} alt="" />
+                    <img className="grid-img" src={BWTwo} alt="" />
                     <img className="grid-img" src={BWFive} alt="" />
+                    <img className="grid-img" src={BWThree} alt="" />
                     <img className="grid-img" src={BWSix} alt="" />
                 </div>
 
@@ -106,10 +106,10 @@ export default function Home() {
 
                 <div className ="home-side-grid cols-2" id="grid-right">
                     <img className="grid-img" src={BWSeven} alt="" />
-                    <img className="grid-img" src={BWEight} alt="" />
-                    <img className="grid-img" src={BWNine} alt="" />
                     <img className="grid-img" src={BWTen} alt="" />
+                    <img className="grid-img" src={BWEight} alt="" />
                     <img className="grid-img" src={BWEleven} alt="" />
+                    <img className="grid-img" src={BWNine} alt="" />
                     <img className="grid-img" src={BWTwelve} alt="" />
                 </div>
 
